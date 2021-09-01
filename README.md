@@ -112,7 +112,8 @@ curl -H 'Accept: application/json' -H "Authorization: Bearer ${TOKEN}" localhost
 ### Docker
   * Dockerize the application located in **[src](/src)**
   * Push it to a public image in DockerHub tagged as **`wize-<firstName>-<lastName>:latest`**
-  * Application should run in port **`8000`**
+  * Application should run in port **`8000`**   
+  * docker pull veram1/wize-miguel-vera:latest
 <br />
 <br />
 
